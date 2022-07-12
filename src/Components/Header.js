@@ -6,7 +6,7 @@ export default function Header() {
         <>
             <header>
                 <div className="shelf">
-                    <h1>Filmlane</h1>
+                    <h1>Filmlanes</h1>
                     <p>Unlimited Movie, TVs Shows, & More.</p>
                     <div className='btn_prnt'>
                     <div className="shelf_btn"><a href="/">Watch Now</a></div>
