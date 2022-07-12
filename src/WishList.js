@@ -32,7 +32,7 @@ const WishList = ({handleLogout}) => {
 
 	useEffect(() => {
 		getMovieRequest(searchValue);
-	}, [searchValue]);
+	});
 
 	useEffect(() => {
 		const movieFavourites = JSON.parse(
